@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NetExercise1</string>
+    <string name="button_text">Touch to add +1</string>
+    <string name="insert_number">Choose a number below</string>
+    <string name="number_hint">Write a number here</string>
+</resources>
